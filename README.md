@@ -1,2 +1,3 @@
 # demo01
-my first demo project
+my first demo project $ starting project
+
